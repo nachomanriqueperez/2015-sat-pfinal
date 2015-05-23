@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+
+<head>
+<title>COMPANY NAME</title>
+<LINK REL=StyleSheet HREF="css/style.css" TYPE="text/css" MEDIA=screen>
+</head>
+
+<body style="background-color:{{fondo|safe}};color:{{letra|safe}};">
+
+<div id="page">
+	<div id="menulinks">
+		<a class="active" href="/"><span>Inicio</span></a>
+		<a href="/todas"><span>Todas</span></a>
+		<a href="/ayuda"><span>Ayuda</span></a>
+	</div>	
+	
+	<div id="header">
+			<h1>ACTIVIDADES EN LA</h1>
+            <h1>COMUNIDAD DE MADRID</h1>
+	</div>
+	
+	<div id="mainarea">
+	<div id="contentarea">
+		<h2>Su combinacion de nombre y contraseña no es correcta o no existe. Intentelo de nuevo en Inicio.</h2>
+		
+	</div>
+
+    <div id="sidebar">
+		<strong></strong>
+	</div></div>
+	
+	<div id="footer">
+		Todos los derechos reservados. Página web hecha por Nacho Manrique Pérez</a>
+	</div>
+
+
+</div>
+
+</body>
+
+</html>
